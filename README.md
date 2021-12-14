@@ -33,10 +33,6 @@
 ---
 
 
-
-
-
-
 [website]: https://bit.ly/RambsWebPage
 [twitter]: https://twitter.com/rambsinteractiv
 [youtube]: https://www.youtube.com/channel/UCYPWfJaLRjY_CS5tvMaNRgQ/featured

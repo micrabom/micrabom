@@ -1,4 +1,4 @@
-### Hi there, I'm Rab - aka [rabski][website] 👋 
+### Hi there, I'm Rab Michael Bombeo - aka [rab][website] 👋 
 
 
 ## I'm a Husband, Father, Developer, and QA Engineer!!

@@ -1,7 +1,7 @@
 ### Hi there, I'm Rab Michael Bombeo - aka [rab][website] 👋 
 
 
-## I'm a Husband, Father, Developer, and QA Engineer!!
+## I'm a Husband, Father, Technical Writer, and QA Engineer!!
 
 
 - 🌱 I’m currently learning selenium automation 🤣

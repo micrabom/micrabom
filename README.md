@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning selenium automation 🤣
 - 👯 I’m looking to collaborate with other qa tester
-- 🥅 2021 Goals: To master selenium automation using C#/Python
+- 🥅 2022 Goals: To master selenium automation using C#/Python
 - ⚡ Fun fact: I love basketball and play bass / drums
 
 ### Connect with me:

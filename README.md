@@ -1,7 +1,15 @@
-### Hi there, I'm Rab Michael Bombeo - aka [rab][website] 👋 
+### Hi there 👋, my name is Rab
+#### QA Engineer | Developer
+![QA Engineer | Developer](https://media-exp1.licdn.com/dms/image/C5616AQGYDr0C1mKM_A/profile-displaybackgroundimage-shrink_350_1400/0/1649391853177?e=2147483647&v=beta&t=Py-0V7zi9Qsxuz47XAJMyurGhJIpiH1pAX05wPIuuog)
+
+I'm Rab from the Philippines, and I do QA Testing and Development. I am currently studying automation, as well as working in WordPress. I also enjoy Graphic Design and Admin Support.
+
+Skills: C#/ Python / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-## I'm a Husband, Father, Technical Writer, and QA Engineer!!
+
 
 
 - 🌱 I’m currently learning selenium automation 🤣

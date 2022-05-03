@@ -1,4 +1,4 @@
-![QA Engineer | Developer](https://media-exp1.licdn.com/dms/image/C5616AQGYDr0C1mKM_A/profile-displaybackgroundimage-shrink_350_1400/0/1649391853177?e=2147483647&v=beta&t=Py-0V7zi9Qsxuz47XAJMyurGhJIpiH1pAX05wPIuuog)
+![QA Engineer | Developer](https://github.com/micrabom/micrabom/blob/main/Github%20Banner.png?raw=true)
 
 ### Hi there 👋, my name is Rab
 #### QA Engineer | Developer | Designer

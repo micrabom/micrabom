@@ -1,6 +1,6 @@
 ![QA Engineer | Developer](https://github.com/micrabom/micrabom/blob/main/Github%20Banner%202.png?raw=true)
 
-### Hi there 👋, my name is Rab
+# Hi there 👋, my name is Rab
 #### QA Engineer | Developer | Designer
 
 

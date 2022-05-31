@@ -10,7 +10,7 @@ I'm Rab from Philippines, and I do QA Testing and Development. I am currently st
 
 
 
-- 🌱 I’m currently learning selenium automation 🤣
+- 🌱 I’m currently learning web development in laravel and reactjs🤣
 - 👯 I’m looking to collaborate with other qa tester
 - 🥅 2022 Goals: To master selenium automation using C#/Python
 - ⚡ Fun fact: I love basketball and play bass / drums

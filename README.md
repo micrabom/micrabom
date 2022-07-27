@@ -4,15 +4,15 @@
 ## QA Engineer | Developer | Designer
 
 
-I'm Rab from Philippines, and I do QA Testing and Development. I am currently studying automation, as well as working in WordPress. I also enjoy Graphic Design and Admin Support.
+I'm Rab from Philippines, and I do QA Testing and Development. I am currently studying javascript, as well as working in WordPress. I also enjoy Graphic Design and Admin Support.
 
 
 
 
 
 - 🌱 I’m currently learning web development in laravel and reactjs🤣
-- 👯 I’m looking to collaborate with other qa tester
-- 🥅 2022 Goals: To master selenium automation using C#/Python
+- 👯 I’m looking to collaborate with other programmer
+- 🥅 2022 Goals: To master and find a job in programming
 - ⚡ Fun fact: I love basketball and play bass / drums
 
 ### Connect with me:

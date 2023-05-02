@@ -17,12 +17,12 @@ I'm Rab from Philippines, and I do QA Testing and Development. I am currently st
 ### Connect with me:
 ___
 
-[<img align="left" alt="codeSTACKr.com" width="40px" style="margin-right: 10px; filter: invert(1);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="codeSTACKr | YouTube" width="40px" style="margin-right: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img align="left" alt="codeSTACKr | Twitter" width="40px" style="margin-right: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" style="margin-right: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" style="margin-right: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" style="margin-right: 10px; filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr.com" width="40px" style="margin-right: 10px; filter: invert;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="codeSTACKr | YouTube" width="40px" style="margin-right: 10px; filter: invert;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img align="left" alt="codeSTACKr | Twitter" width="40px" style="margin-right: 10px; filter: invert;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" style="margin-right: 10px; filter: invert;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="40px" style="margin-right: 10px; filter: invert;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="40px" style="margin-right: 10px; filter: invert;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 <br />

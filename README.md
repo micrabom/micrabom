@@ -21,7 +21,7 @@ ___
 [<img align="left" alt="codeSTACKr | YouTube" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="codeSTACKr | Twitter" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="40px" style="margin-right: 10px;filter: grayscale(100%) brightness(200%);;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />

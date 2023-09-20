@@ -1,7 +1,7 @@
 ![QA Engineer | Developer](https://github.com/micrabom/micrabom/blob/main/Github%20Banner%202.png?raw=true)
 
 # Hi there 👋, my name is Rab
-## QA Engineer | Developer | Designer
+## Full Stack Developer | QA | Technical Writer
 
 
 I'm Rab from Philippines, and I do QA Testing and Development. I am currently studying javascript, as well as working in WordPress. I also enjoy Graphic Design and Admin Support.

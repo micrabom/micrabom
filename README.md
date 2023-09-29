@@ -9,7 +9,7 @@ I'm Rab from Philippines, and I do QA Testing and Development. I am currently st
 
 
 
-- 🌱 I’m currently working as a full stack developer and reactjs
+- 🌱 I’m currently working as a full stack developer and love working on reactjs framework
 - 👯 I’m looking to collaborate with another programmer
 - 🥅 2023 Goals: Learn and find a job in programming
 - ⚡ Fun fact: I love basketball and play bass guitar

@@ -17,12 +17,12 @@ I'm Rab from Philippines, and I do QA Testing and Development. I am currently st
 ### Connect with me:
 ___
 
-[<img align="left" alt="rambsdev.netlify.com" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="rambsdev | YouTube" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img align="left" alt="rambsdev | Twitter" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rambsdev | LinkedIn" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rambsdev | Instagram" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="rambsdev | Instagram" width="40px" style="margin-right: 10px; filter: invert(100%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="rambsdev.netlify.com" width="40px" style="margin-right: 10px; filter: grayscale(50%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="rambsdev | YouTube" width="40px" style="margin-right: 10px; filter: grayscale(50%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img align="left" alt="rambsdev | Twitter" width="40px" style="margin-right: 10px; filter: grayscale(50%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rambsdev | LinkedIn" width="40px" style="margin-right: 10px; filter: grayscale(50%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rambsdev | Instagram" width="40px" style="margin-right: 10px; filter: grayscale(50%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rambsdev | Instagram" width="40px" style="margin-right: 10px; filter: grayscale(50%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 <br />
